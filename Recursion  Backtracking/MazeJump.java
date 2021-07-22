@@ -1,10 +1,3 @@
-/**
- * @(#)MazeJump.java
- *
- *
- * @author 
- * @version 1.00 2021/7/21
- */
 import java.util.*;
 public class MazeJump {
     public static ArrayList<String> MazeJump(int sr,int sc,int dr,int dc) {
