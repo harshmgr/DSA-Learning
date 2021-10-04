@@ -1,11 +1,3 @@
-/**
- * @(#)TowerHanoi.java
- *
- *
- * @author 
- * @version 1.00 2021/6/20
- */
-
 public class TowerHanoi {
     public static void TowerHanoi(int n,char A,char B,char C) {
     	if(n==0)

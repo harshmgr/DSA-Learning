@@ -1,11 +1,4 @@
-/**
- * @(#)CoinChangeCombination.java
- *
- *
- * @author 
- * @version 1.00 2021/9/21
- */
-
+import java.util.*;
 public class CoinChangeCombination {
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
